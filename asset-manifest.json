@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wookee-todo/static/css/main.74f76a22.css",
+    "main.js": "/Wookee-todo/static/js/main.51c7aec8.js",
+    "index.html": "/Wookee-todo/index.html",
+    "main.74f76a22.css.map": "/Wookee-todo/static/css/main.74f76a22.css.map",
+    "main.51c7aec8.js.map": "/Wookee-todo/static/js/main.51c7aec8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74f76a22.css",
+    "static/js/main.51c7aec8.js"
+  ]
+}
